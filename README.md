@@ -9,9 +9,9 @@ The application uses a SQL Server database to store user information and uses an
 ## Environment
 
 - **Programming Language:** C#
-- **IDE:** Visual Studio [your version]
-- **.NET Version:** [your .NET version]
-- **Database:** Microsoft SQL Server [your edition/version]
+- **IDE:** Visual Studio [devenv.exe]
+- **.NET Version:18 
+- **Database:** Microsoft SQL Server [22]
 - **Database Management Tool:** SQL Server Management Studio (SSMS)
 - **Connection:** SQL Server using Windows Authentication
 - **Connection String Format:**
@@ -117,6 +117,49 @@ The vulnerable version, exploit input, fixed version, and demonstration results 
 
 Bonus Tasks:
 No bonus tasks were attempted.
+
+Screenshots
+
+The following screenshots will be included as evidence of the completed application.
+
+1. Database Table Design
+
+<img width="412" height="518" alt="image" src="https://github.com/user-attachments/assets/d166fded-38b2-4c09-85b8-f84d19acd1e8" />
+
+
+2. Registration
+
+<img width="356" height="675" alt="image" src="https://github.com/user-attachments/assets/86d2e0a8-8679-49cc-a881-93b17b825018" />
+
+
+3. Successful Login
+
+<img width="991" height="730" alt="image" src="https://github.com/user-attachments/assets/f61378a2-df4a-400d-80a2-6a1d4e030a15" />
+
+
+4. Failed Login
+
+<img width="382" height="612" alt="image" src="https://github.com/user-attachments/assets/0331f801-bfcd-43de-a848-be012dff8e75" />
+
+
+5. Home Screen with Grid
+
+<img width="993" height="716" alt="image" src="https://github.com/user-attachments/assets/ba528517-8b30-49a8-9198-eff92bf2a2d2" />
+
+
+6. Logout
+
+<img width="965" height="728" alt="image" src="https://github.com/user-attachments/assets/37f9c3db-c5bb-46f8-9e34-0abaa009bc8c" />
+
+
+7. SQL Injection Demonstration - Before
+
+already replaced it with the new code ,that's why can't go back before in case any error occur.
+
+8. SQL Injection Demonstration - After
+
+<img width="772" height="180" alt="image" src="https://github.com/user-attachments/assets/23f9c926-c31d-4d68-9aea-4ba77c39e6f9" />
+
 
 
 Problems Encountered and Solutions:
